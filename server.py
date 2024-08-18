@@ -1,5 +1,5 @@
 def server():
-    print('Hello Server!')
+    print('Hello NEW Server!')
 
 
 server()
